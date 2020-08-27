@@ -1,4 +1,5 @@
 # Frontend Mentor - Fylo data storage component
+- View my project live [here](https://sad-williams-e27733.netlify.app)
 
 ![Design preview for the Fylo data storage component coding challenge](./design/desktop-preview.jpg)
 
